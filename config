@@ -1,0 +1,9 @@
+Host gitlab
+	HostName gitlab.com
+	User git
+	IdentityFile ~./ssh/speerwil_rsa
+
+Host speerwil
+	HostName login.engin.umich.edu
+	User speerwil
+
